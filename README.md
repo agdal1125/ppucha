@@ -5,5 +5,6 @@
 ## Usage
 
 ### KakaoTalk Chatbot: @ppucha4u  - Obtain your unique barcode via this chatbot
-### Webpage (Working on): ppucha.herokuapp.com 
+### Webpage (Working on): https://ppucha.herokuapp.com 
+
 
